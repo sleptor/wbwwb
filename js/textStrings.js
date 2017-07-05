@@ -101,7 +101,7 @@ var textStrings_EN = {
     "MarshallMcLuhan"    : "\n\nМаршалл Маклюэн" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(на самом деле, нет)" ,
+    "misatrributed"      : "\n\n(на самом деле, нет)" ,
 };
 
 // Umlaut codes: Ä = \xC4, Ö = \xD6, Ü = \xDC, ä = \xE4, ö = \xF6, ü = \xFC, ß = \x
