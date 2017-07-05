@@ -95,10 +95,10 @@ var textStrings_EN = {
     
     // (quote0002.png)
     "WBWWB"              : "Мы становимся тем,\n что видим" ,
-    "WSOTATOTSU"         : "\n\nМы формируем инструменты,\n которые в дальнейшем формируют нас." ,
+    "WSOTATOTSU"         : "\n\n\nМы формируем инструменты,\n которые в дальнейшем формируют нас." ,
     
     // (quote0003.png)
-    "MarshallMcLuhan"    : "\nМаршалл Маклюэн" ,
+    "MarshallMcLuhan"    : "\n\nМаршалл Маклюэн" ,
     
     // (quote0004.png)
     "misatrributed"      : "(на самом деле, нет)" ,
