@@ -4,104 +4,104 @@
 
 var textStrings_EN = {
     // Act 1
-    "niceHat"              : "OOH NICE HAT"                                          ,
-    "outtaHere"            : "yeah git on outta here"                                ,
-    "getARoom"             : "GROSS, GO GET A ROOM"                                  ,
-    "notCoolAnymore"       : "nvm hats aren't cool anymore"                          ,
-    "tvOnTv"               : "A TV... ON TV!"                                        ,
-    "cricky"               : "LIL' CRICKY <3"                                        ,
-    "tooManyCrickets"      : "okay that's too many crickets"                         ,
-    "normalPeep"           : "just a normal peep"                                    ,
-    "normalPeeps"          : "just some normal peeps"                                ,
-    "wowNothing"           : "WOWWEE, IT'S NOTHING"                                  ,
+    "niceHat"              : "ООО, КРУТАЯ ШЛЯПА!"                              ,
+    "outtaHere"            : "да вали отсюда"                                  ,
+    "getARoom"             : "ЖУТЬ, УЕДИНИЛИСЬ БЫ!"                            ,
+    "notCoolAnymore"       : "забей, шляпы — это уже не круто"                 ,
+    "tvOnTv"               : "телик… ПО ТЕЛИКУ!"                               ,
+    "cricky"               : "МАЛЕНЬКИЙ СВЕРЧОК <3"                            ,
+    "tooManyCrickets"      : "Лааадно, слишком много сверчков!"                ,
+    "normalPeep"           : "Просто чувак"                                    ,
+    "normalPeeps"          : "Просто людишки"                                  ,
+    "wowNothing"           : "УРЯЯЯ, НИЧЕГО НЕТ"                               ,
     
     // Act 2
-    "crazySquareAttacks"   : "CRAZED SQUARE ATTACKS"                                 ,
-    "justMissed"           : "oooooh just missed it"                                 ,
-    "somethingInteresting" : "(ya gotta catch 'em doing *something* interesting...)" ,
-    "whoIsScreaming"       : "(ya gotta catch who's screaming at 'em)"               ,
-    "circleFearsSquares"   : "CIRCLE FEARS SQUARES"                                  ,
-    "whoScaresThem"        : "(ya gotta also catch *who* they're scared by)"         ,
-    "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
-    "squaresSnubCircles"   : "SQUARES SNUB CIRCLES"                                  ,
-    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "EVERYONE HATES EVERYONE!!1!"                           ,
-    "almostEveryoneHates"  : "ALMOST EVERYONE HATES EVERYONE..."                     ,
-    "squaresHateCircles"   : "SQUARES HATE CIRCLES"                                  ,
-    "circlesHateSquares"   : "CIRCLES HATE SQUARES"                                  ,
-    "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
-    "nerdsNow"             : "what are these nerds doing now"                        ,
-    "schockedPeep"         : "why's this peep shocked?"                              ,
-    "whatever"             : "whatever"                                              ,
+    "crazySquareAttacks"   : "ДВИНУТЫЙ КВАДРАТИК АТАКУЕТ"                      ,
+    "justMissed"           : "УПС, не успели!"                                 ,
+    "somethingInteresting" : "(тебе нужно поймать их за *интересным* занятием…)" ,
+    "whoIsScreaming"       : "(тебе нужно поймать *кто* кричит на них)"          ,
+    "circleFearsSquares"   : "КРУЖОЧЕК БОИТСЯ КВАДРАТИКОВ"                                  ,
+    "whoScaresThem"        : "(тебе нужно поймать *кого* они испугались)"         ,
+    "areTheyScared"        : "(тебе нужно поймать, как они пугаются квадратика) "       , // not used
+    "squaresSnubCircles"   : "КВАДРАТИКИ УНИЖАЮТ КРУЖОЧКИ"                                  ,
+    "areTheySnubbed"       : "(тебе нужно поймать, как квадратики унижают кружочки)"        , // not used
+    "everyoneHates"        : "ВСЕ НЕНАВИДЯТ ДРУГ ДРУГА!!1!"                           ,
+    "almostEveryoneHates"  : "ПОЧТИ ВСЕ НЕНАВИДЯТ ДРУГ ДРУГА..."                     ,
+    "squaresHateCircles"   : "КВАДРАТИКИ НЕНАВИДЯТ КРУЖОЧКИ"                                  ,
+    "circlesHateSquares"   : "КРУЖОЧКИ НЕНАВИДЯТ КВАДРАТИКИ"                                  ,
+    "areTheyYelling"       : "(ты должен поймать, как они кричат на остальных)"              , // not used
+    "nerdsNow"             : "что эти ботаны сейчас делают..."                        ,
+    "schockedPeep"         : "почему чувак в шоке?"                              ,
+    "whatever"             : "пофигу"                                              ,
     
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "hats ain't cool no more, haven't you heard?"           ,
-    "beScared"             : "BE SCARED. BE ANGRY."                                  ,
+    "coolNoMore"           : "Шляпы — это не круто, ты еще не слышал?"           ,
+    "beScared"             : "БУДЬ НАПУГАННЫМ. БУДЬ ЗЛЫМ."                                  ,
     
     // MANIFESTO
     "manifesto" : [
-       //"as if you viewers want GOOD news"       ,
-       "who tunes in to watch *people get along?*",
-       "peace is boring. violence goes viral."    ,
-       //"peace is boring. conflict gets clicks." ,
-       "and every story needs a conflict, so..."  ,
-       //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "GIVE THE AUDIENCE WHAT THEY WANT."
+       //"как будто зрители хотят ХОРОШИХ новостей"       ,
+       "кто включает телик, чтобы посмотреть, как люди *ладят*???",
+       "мир — скука. насилие — в массы."    ,
+       //"мир — скука. конфликты получают лайки." ,
+       "в каждой истории должен быть конфликт, так что.."  ,
+       //"...ДАЙ ПУБЛИКЕ ТО, ЧТО ОНА ХОЧЕТ."   ,
+       "ДАЙ ПУБЛИКЕ ТО, ЧТО ОНА ХОЧЕТ!"   "
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
-    "playingTime"        : "playing time: 5 minutes" ,
-    "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
+    "playingTime"        : "время игры: 5 минут" ,
+    "warning"            : "Программа содержит сцены агрессивного снобизма, грубости и массовых убийств. Мы вас предупредили" ,
     
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" ,
+    "pointAndClick"      : "НАПРАВЬ И КЛИКНИ" ,
     
     // (chyron3.png)
-    "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
+    "chyronNothing"      : "УРЯ, ЭТО *НИЧЕГО*" ,
     
     // (credits0001.png)
-    "createdBy"          : "created by" ,
-    "NickyCase"          : "Nicky Case" ,
+    "createdBy"          : "сделано руками" ,
+    "NickyCase"          : "Ники Кейс" ,
     
     // (credits0002.png)
-    "manyThanks"         : "many thanks to my playtesters:" ,
+    "manyThanks"         : "благодарю тех, кто тестировал игру:" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "and to my patreon supporters:" ,
+    "patreonSupporters"  : "и тех, кто меня поддержал:" ,
     
     // (credits0007.png)
-    "lastButNotLeast"    : "and last but not least," ,
+    "lastButNotLeast"    : "и наконец," ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "thank YOU for playing!" ,
+    "thankYouForPlaying" : "спасибо ВАМ, что играли!" ,
     
     // (preload_play.png)
-    "playButton"         : "PLAY" ,
+    "playButton"         : "ИГРАТЬ" ,
     
     // (end_button.png) Post Credits
-    "otherWorkButton"    : "see my other work" ,
-    "buyCoffeeButton"    : "buy me a coffee" ,
-    "replayButton"       : "replay this mess" ,
+    "otherWorkButton"    : "посмотреть мои другие работы" ,
+    "buyCoffeeButton"    : "угостить меня кофе" ,
+    "replayButton"       : "сыграть еще раз в эту жесть" ,
     
     // (logo.png) Post Credits
-    "logoWBWWB"          : "SHARE THE PAIN:" ,
+    "logoWBWWB"          : "ПОДЕЛИСЬ БОЛЬЮ:" ,
     
     // (end_prototype.png)
-    "endOfPrototype"     : "END OF PROTOTYPE" ,
-    "toBeContinued"      : "(to be continued!)" ,
+    "endOfPrototype"     : "КОНЕЦ" ,
+    "toBeContinued"      : "(следите за обновлениями!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "We become what we behold." ,
-    "WSOTATOTSU"         : "We shape our tools and then our tools shape us." ,
+    "WBWWB"              : "Мы становимся тем, что мы видим" ,
+    "WSOTATOTSU"         : "Мы формируем инструменты, которые в дальнейшем будут формировать нас." ,
     
     // (quote0003.png)
-    "MarshallMcLuhan"    : "Marshall McLuhan" ,
+    "MarshallMcLuhan"    : "Маршалл Маклюэн" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(misattributed)" ,
+    "misatrributed"      : "(на самом деле, нет)" ,
 };
 
 // Umlaut codes: Ä = \xC4, Ö = \xD6, Ü = \xDC, ä = \xE4, ö = \xF6, ü = \xFC, ß = \x
