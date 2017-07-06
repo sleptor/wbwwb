@@ -71,3 +71,10 @@ body{
 #credits a {
 	color: #ccc;
 }
+
+.aso-zone-35912 {
+	position: absolute;
+	bottom: -100px;
+	left: 50%;
+	transform: translateX(-50%);
+}
